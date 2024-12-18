@@ -1,0 +1,6 @@
+stages:
+  lint:
+    steps:
+      ruff:
+        image: pipelinecomponents/ruff
+        args: check

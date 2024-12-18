@@ -1,0 +1,7 @@
+line-length = 132
+
+[lint]
+ignore = ['E701', 'E702']
+
+[format]
+indent-style = 'tab'
